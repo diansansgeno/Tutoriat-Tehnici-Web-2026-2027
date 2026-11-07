@@ -29,6 +29,8 @@ Hello, Hello folks and friends.Am actualizat tutoriatul pentru săptămâna acea
 *   [Document 1 - Tutoriat](https://docs.google.com/document/d/1Tjg50TPMBtDBBhJtFguwos0FeeKyonT1TZ2EclxtJgo/edit?tab=t.0)
 *   [Document 2 - Tutoriat](https://docs.google.com/document/d/1MVthnQ5qfnEVmwldfcocw3X0PhkiUQSf1XRr6-c9bc/edit?tab=t.0)
 
+## Stadiu tutoriat
+
 - [X] Tutoriatul 1 - added
 - [X] Tutoriatul 2 - added
 - [] Tutoriatul X, X >= 3 - not yet attained
