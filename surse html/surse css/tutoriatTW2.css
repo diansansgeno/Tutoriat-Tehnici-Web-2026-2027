@@ -1,0 +1,29 @@
+.paragraf {
+    font-size: 50px;
+    color: blue;
+}
+
+#img1 {
+    border-width: 10px;
+    border-style: solid;
+    border-color: blue;
+}
+
+img {
+    border: 10px, dashed, yellow;
+}
+
+figure>ul {
+text-align: center;
+color: red;
+
+}
+
+#img1:hover {
+    display: block;
+}
+
+.imagine::before {
+    content: "Acesta este un fluture";
+    color: red;
+}
